@@ -62,7 +62,7 @@ packaging==26.3
 pandas==3.0.6
 pathable==0.6.0
 pglast==7.20
-pillow==12.3.0
+pillow==13.0.0
 propcache==0.5.4
 protobuf==7.36.2
 psycopg==3.3.6
